@@ -7,3 +7,4 @@ def toh(n,s,d,a):
     toh(n-1,a,d,s)
 n=int(input("enter the no of disk : "))
 toh(n,'s','a','d')
+print("program")
